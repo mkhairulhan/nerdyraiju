@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Nerdly Tech Boo',
-  siteDescription: 'A site to browse for tech articles and free stuff. By Khairul Hanif.',
+  siteName: 'Nerdy Raiju',
+  siteDescription: 'All about tech, web and free stuff. By Khairul Hanif',
 
   templates: {
     Post: '/:title',
