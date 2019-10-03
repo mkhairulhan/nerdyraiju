@@ -6,7 +6,7 @@
 		</h1>
 
 		<p class="author__intro">
-			A site to browse for tech articles and free stuff. By Khairul Hanif.
+			All about tech, web and free stuff. By Khairul Hanif.
 		</p>
 
 		<p class="author__links">
