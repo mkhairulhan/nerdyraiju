@@ -56,6 +56,7 @@ export default {
 
 <page-query>
 query Post ($id: ID!) {
+allPost(sortBy: "date", order: DESC) {
   post: post (id: $id) {
     title
     path
@@ -69,6 +70,7 @@ query Post ($id: ID!) {
     description
     content
     cover_image (width: 860, blur: 10)
+  }
   }
 }
 </page-query>
