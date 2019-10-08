@@ -55,22 +55,8 @@ export default {
 </script>
 
 <page-query>
-query Post ($id: ID!) {
-allPost(sortBy: "date") {
-  post: post (id: $id) {
-    title
-    path
-    date (format: "D. MMMM YYYY")
-    timeToRead
-    tags {
-      id
-      title
-      path
-    }
-    description
-    content
-    cover_image (width: 860, blur: 10)
-  }
+query Post {
+  allPost (sortBy: "date", order: "DESC"){
   }
 }
 </page-query>
