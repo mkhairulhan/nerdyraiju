@@ -56,7 +56,13 @@ export default {
 
 <page-query>
 query Post {
-  allPost (sortBy: "date", order: "DESC"){
+  post : allPost (sortBy: "date", order: "DESC"){
+    edge {
+      node {
+        title
+        path
+      }
+    }
   }
 }
 </page-query>
