@@ -12,44 +12,51 @@ description: >-
 ---
 These 7 websites will help you to find some inspiration and ideas on what fonts to pair together to create that masterpiece of yours.
 
-****
+
+
 
 **\#1** **GOOGLE TYPE**
 
-![](/images/uploads/1.png)
+[![](/images/uploads/1.png)](http://femmebot.github.io/google-type/)
 
-****
+
+
 
 **\#2** **FONTPAIR**
 
-![](/images/uploads/2.png)
+[![](/images/uploads/2.png)](https://fontpair.co/)
 
-****
+
+
 
 **\#3** **COLORS AND FONTS**
 
-![](/images/uploads/3.png)
+[![](/images/uploads/3.png)](https://www.colorsandfonts.com/fonts.html)
 
-****
+
+
 
 **\#4** **TYP.IO**
 
-![](/images/uploads/4.png)
+[![](/images/uploads/4.png)](http://typ.io/)
 
-****
+
+
 
 **\#5** **MIXFONT**
 
-![](/images/uploads/5.png)
+[![](/images/uploads/5.png)](https://www.mixfont.com/)
 
-****
+
+
 
 **\#6** **FONTJOY**
 
-![](/images/uploads/6.png)
+[![](/images/uploads/6.png)](https://fontjoy.com/)
 
-****
+
+
 
 **\#7** **BRANDMARK FONT GENERATOR**
 
-![](/images/uploads/7.png)
+[![](/images/uploads/7.png)](https://brandmark.io/font-generator/)
