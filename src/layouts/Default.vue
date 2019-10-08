@@ -16,8 +16,8 @@
     </main>
 
     <footer class="footer">
-      <span class="footer__copyright">© itsraikuro {{ new Date().getFullYear() }}. </span>
-      <span class="footer__links">Powered by <a href="//www.suits.at"> SUITS </a></span>
+      <span class="footer__copyright">© nerdyraiju {{ new Date().getFullYear() }}. </span>
+      <span class="footer__links">Powered by <a href="//https://vuejs.org/"> VUE.JS </a></span>
     </footer>
 
   </div>
