@@ -56,7 +56,7 @@ export default {
 
 <page-query>
 query Post ($id: ID!) {
-allPost(sortBy: "date", order: DESC) {
+allPost(sortBy: "date") {
   post: post (id: $id) {
     title
     path
