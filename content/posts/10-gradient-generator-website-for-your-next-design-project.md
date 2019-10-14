@@ -8,10 +8,9 @@ tags:
   - COLOUR
 cover_image: /images/uploads/gradient-post-2.png
 description: >-
-  **Ever run out of ideas on what kind of background that you want to use for
-  your next design project? Or maybe for that cool illustrations that you're
-  working on but the colours aren't quite right? Well, let's try some colour
-  gradients.**
+  Ever run out of ideas on what kind of background that you want to use for your
+  next design project? Or maybe for that cool illustrations that you're working
+  on but the colours aren't quite right? Well, let's try some colour gradients.
 ---
 I get it. Sometimes, it's really hard to create a gradient that fits well with what you envisioned for your design. It can take hours just to get that right colour combination for a gradient. But rest assure, in this article, I've compiled a list of websites where you can look into for some cool colour gradients that you can use. These websites are my go-to whenever I want to use some quick gradient for my design. So, let's get into it.
 &nbsp;
