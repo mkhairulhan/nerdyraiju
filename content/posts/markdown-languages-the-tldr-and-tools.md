@@ -17,7 +17,9 @@ description: >-
 FYI, all the blog post in this website are also written in markdown syntax. It allows for an easy-to-write, easy-to-read in plain text format for rapid content creation, especially for writers, bloggers, etc. Markdown can easily be integrated in any CMS or website for content creation, although it is still depends on whether the platform you use supports it or not.  Markdown, in some way, are better and easier than HTML syntax (in terms of styling and formating) and any other WYSIWYG tools (as some of them have limited option).
 
 Although markdown has some bit learning curve to it, once you have get the grip, it would become a powerful writing tool which provides you with different options so that you would have a full control over it. And what's more, is that markdown would help a team to get on a same page quickly and with less error when working together. You can learn more about markdown language from other website for it's syntax and usage, as this post is only to give you some insight on what markdown is and the tools to write it with.
-
+     
+     
+     
 
 ## Tools to write in markdown language.
 
@@ -50,6 +52,10 @@ _P/S: All the tools listed below are **free** to use._
 | [StackEdit](https://stackedit.io/) | Free |
 | [Writekit Markdown Editor](http://writekit.github.io/markdown.note/note.html) | Free |
 
+     
+     
+     
+     
 
 ### Conclusion
 Personally, I used **Typora** as my main markdown editor, as it is by far the best one that I've used with sufficient features that I really need. And whenever I'm on another laptop or workstation, I would use **Dillinger** as my web editor as it have a clean UI, pleasing to the eye kind, with some great features like export to different format, save to my cloud storage, etc.
