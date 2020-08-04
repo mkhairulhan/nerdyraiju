@@ -10,8 +10,7 @@
 		</p>
 
 		<p class="author__links">
-			<a href="https://khairulhanif.netlify.com/">View Portfolio</a>
-			<a href="https://www.instagram.com/itsdumbnip/">Instagram</a>
+			
 		</p>
 
 	</div>
